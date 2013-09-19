@@ -1,0 +1,17 @@
+{
+    "name": "clue/basedir",
+    "description": "Common user base directory (home, data, cache) for desktop / CLI applications (XDG Base Directory Specification)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Lück",
+            "email": "christian@lueck.tv"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Clue\\Basedir": "src/" }
+    }
+}
